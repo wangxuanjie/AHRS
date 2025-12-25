@@ -12,6 +12,12 @@
 - GCS:
   - /Tools/匿名上位机V7-20201213.exe
 
+Calibration Methods:
+  - Supports double-sided tape compass calibration and six-side accelerometer calibration.
+
+Attitude estimator:
+  - px4 attitude_estimator_q
+
 ## Test video
 
 [![Demo Video](Doc/preview.png)](Doc/test.mp4)
